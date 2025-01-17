@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+This project was part of udemy course to learn dbt.
 
 ### Using the starter project
 
